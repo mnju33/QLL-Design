@@ -51,13 +51,6 @@ Mean quadrature phase error (MQPE) was modeled against natural oscillation frequ
 - Evaluated delay and high-frequency attenuation as buffer stage count increased.
 - Reviewed sensitivity to QPD/charge-pump mismatch and the available control-voltage range.
 
-## Source Material
-
-- QLL__pll.pptx: circuit architecture, locking range, loop response, and quadrature phase error.
-- QLL.pptx and QLL_past.pptx: circuit revisions, noise analysis, and buffer design review.
-
-This summary distinguishes the implemented design from the reference-paper introduction. Original PDK files, circuit databases, and presentation files are not included.
-
 ## Related Project
 
 [VCO Design](https://github.com/mnju33/VCO-Design) — differential MIM capacitor bank design and EMX verification.
